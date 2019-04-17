@@ -1,16 +1,14 @@
 
-var fillColorFromGlobalColors0 = function(context) { fillColorFormColors(0); }
-var fillColorFromGlobalColors1 = function(context) { fillColorFormColors(1); }
-var fillColorFromGlobalColors2 = function(context) { fillColorFormColors(2); }
-var fillColorFromGlobalColors3 = function(context) { fillColorFormColors(3); }
-var fillColorFromGlobalColors4 = function(context) { fillColorFormColors(4); }
-var fillColorFromGlobalColors5 = function(context) { fillColorFormColors(5); }
-var fillColorFromGlobalColors6 = function(context) { fillColorFormColors(6); }
-var fillColorFromGlobalColors7 = function(context) { fillColorFormColors(7); }
-var fillColorFromGlobalColors8 = function(context) { fillColorFormColors(8); }
+var fillColorFromGlobalColors0 = function(context) { fillColorFormColors(26); }
+var fillColorFromGlobalColors1 = function(context) { fillColorFormColors(25); }
+var fillColorFromGlobalColors2 = function(context) { fillColorFormColors(24); }
+var fillColorFromGlobalColors3 = function(context) { fillColorFormColors(16); }
+var fillColorFromGlobalColors4 = function(context) { fillColorFormColors(8); }
+var fillColorFromGlobalColors5 = function(context) { fillColorFormColors(0); }
+var fillColorFromGlobalColors6 = function(context) { fillColorFormColors(23); }
+var fillColorFromGlobalColors7 = function(context) { fillColorFormColors(15); }
+var fillColorFromGlobalColors8 = function(context) { fillColorFormColors(7); }
 var fillColorFromGlobalColors9 = function(context) { fillColorFormColors(9); }
-var fillColorFromGlobalColors10 = function(context) { fillColorFormColors(10); }
-var fillColorFromGlobalColors11 = function(context) { fillColorFormColors(11); }
 
 
 

@@ -11,34 +11,34 @@
             "script" : "matisse.js",
             "handler" : "fillColorFromGlobalColors0",
             "shortcut" : "ctrl 1",
-            "name" : "Snow100",
+            "name" : "Snow 100",
             "identifier" : "сolor-1"
         },
         {
             "script" : "matisse.js",
-            "handler" : "fillColorFromGlobalColors7",
+            "handler" : "fillColorFromGlobalColors1",
             "shortcut" : "ctrl 2",
-            "name" : "Snow200",
+            "name" : "Snow 200",
             "identifier" : "сolor-2"
         },
         {
             "script" : "matisse.js",
             "handler" : "fillColorFromGlobalColors2",
             "shortcut" : "ctrl 3",
-            "name" : "Snow300",
+            "name" : "Snow 300",
             "identifier" : "сolor-3"
         },
         {
             "script" : "matisse.js",
             "handler" : "fillColorFromGlobalColors3",
             "shortcut" : "ctrl 4",
-            "name" : "Snow400",
+            "name" : "Snow 400",
             "identifier" : "сolor-4"
         },
         {
             "script" : "matisse.js",
             "handler" : "fillColorFromGlobalColors4",
-            "shortcut" : "Snow500",
+            "shortcut" : "Snow 500",
             "name" : "Color 5",
             "identifier" : "сolor-5"
         },
@@ -46,44 +46,37 @@
             "script" : "matisse.js",
             "handler" : "fillColorFromGlobalColors5",
             "shortcut" : "ctrl 6",
-            "name" : "Snow600",
+            "name" : "Snow 600",
             "identifier" : "сolor-6"
         },
         {
             "script" : "matisse.js",
             "handler" : "fillColorFromGlobalColors6",
             "shortcut" : "ctrl 7",
-            "name" : "Slate600",
+            "name" : "Slate 600",
             "identifier" : "сolor-7"
         },
         {
             "script" : "matisse.js",
             "handler" : "fillColorFromGlobalColors7",
             "shortcut" : "ctrl 8",
-            "name" : "Color 8",
+            "name" : "Slate 700",
             "identifier" : "сolor-8"
         },
         {
             "script" : "matisse.js",
             "handler" : "fillColorFromGlobalColors8",
             "shortcut" : "ctrl 9",
-            "name" : "Color 9",
+            "name" : "Slate 800",
             "identifier" : "сolor-9"
         },
         {
             "script" : "matisse.js",
             "handler" : "fillColorFromGlobalColors9",
             "shortcut" : "ctrl 0",
-            "name" : "Color 10",
+            "name" : "Teal Regular",
             "identifier" : "сolor-10"
-        },
-        {
-            "script" : "matisse.js",
-            "handler" : "fillColorFromGlobalColors11",
-            "shortcut" : "ctrl cmd 1",
-            "name" : "Color 11",
-            "identifier" : "сolor-11"
-        },
+        }
     ],
     "menu": {
         "items": [
@@ -96,8 +89,7 @@
             "сolor-7",
             "сolor-8",
             "сolor-9",
-            "сolor-10",
-            "color-11"
+            "сolor-10"
         ]
     }
 }
