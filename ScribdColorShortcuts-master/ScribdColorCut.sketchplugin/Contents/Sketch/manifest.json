@@ -38,8 +38,8 @@
         {
             "script" : "matisse.js",
             "handler" : "fillColorFromGlobalColors4",
-            "shortcut" : "Snow 500",
-            "name" : "Color 5",
+            "shortcut" : "ctrl 5",
+            "name" : "Snow 500",
             "identifier" : "сolor-5"
         },
         {
